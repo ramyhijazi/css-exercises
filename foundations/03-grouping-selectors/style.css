@@ -1,0 +1,19 @@
+.button,
+.buttonwacky
+{
+    border: 1px solid black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.button
+{
+    color: white;
+    font-weight: bold;
+    background-color: black;
+}
+
+.buttonwacky
+{
+    color: black;
+    background-color: yellow;
+}
