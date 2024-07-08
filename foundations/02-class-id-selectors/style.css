@@ -1,0 +1,25 @@
+.lesscoolclass
+{
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: lightcoral;
+}
+
+.coolerclass
+{
+    font-size: 45px;
+
+}
+
+#numbertwo
+{
+    color: blue;
+    font-size: 55px;
+}
+
+#anotherid
+{
+    font-weight: 900;
+    font-size: 55px;
+    background-color: lightgreen;
+}
